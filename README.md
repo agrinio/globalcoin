@@ -1,0 +1,4 @@
+globalcoin
+==========
+
+Cryptocurrency coin
